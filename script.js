@@ -728,15 +728,29 @@ if(isMobile){$('body').addClass('mobile')}
 	var currentrotation = 0
 	var scroll_ani_counter =0
 
-	var today_string = new Date().getUTCFullYear()+', '+("0" + (new Date().getUTCMonth()+1)).slice(-2)+', '+("0" + new Date().getUTCDate()).slice(-2)
+	var today_string = new Date().getUTCFullYear()+'/'+("0" + (new Date().getUTCMonth()+1)).slice(-2)+'/'+("0" + new Date().getUTCDate()).slice(-2)
 	if(window.location.hash && window.location.hash.split('#goto_').length>1){
-		today_string = window.location.hash.split('#goto_')[1].split('-')[0] + ', '+window.location.hash.split('#goto_')[1].split('-')[1] + ', '+window.location.hash.split('#goto_')[1].split('-')[2]
+		today_string = window.location.hash.split('#goto_')[1].split('-')[0] + '/'+window.location.hash.split('#goto_')[1].split('-')[1] + '/'+window.location.hash.split('#goto_')[1].split('-')[2]
 	}
 	function get_inittime_d() {
-	    return Math.round((new Date(2021, 10, 10) - new Date(today_string))/(1000*60*60*24));
+		  const setDate = new Date("2021-01-01T00:00:00+0900");
+		  const setDateYear = setDate.getFullYear();
+		  const setDateMonth = setDate.getMonth() + 1;
+		  const setDateDay = setDate.getDate();
+		  const now = new Date();
+		  const distance = setDate.getTime() - now.getTime();
+		  const day = Math.floor(distance/(1000*60*60*24));
+	    return Math.abs(`${day}`)
+  		// const day = Math.floor(distance/(1000*60*60*24));
+  
 	}
 
 	var inittime_d = get_inittime_d()
+	console.log(inittime_d)
+
+
+
+
 
 	var inittime_h = new Date().toString().split(' ')[4].split(':')[0]
 	var initrotation = inittime_h/24
@@ -883,6 +897,8 @@ function get_data_array() {
 						    append_weekinfo(i,k,classname)
 						    append_weekitems(i,k,classname)
 							if(i == number_of_board-1){
+								console.log(inittime_d)
+								console.log(new_text_content_org[(k+inittime_d)%42])
 									$('.'+classname).find('.text_inner_wrapper').append('\
 									<div class="text_inner_content text_inner_content_1 ' + new_text_content_org[(k+inittime_d)%42][0] + '">' + new_text_content[(k+inittime_d)%42][0] + '</div>\
 									<div class="text_inner_content text_inner_content_2 ' + new_text_content_org[(k+inittime_d)%42][1] + '">' + new_text_content[(k+inittime_d)%42][1] + '</div>\
