@@ -34,13 +34,14 @@ width: 355vh}
 			$('body').css({'width':$('img').outerWidth()+'px'})
 
       for (var i = new_text_content.length - 1; i >= 0; i--) {
+        console.log(new_text_content[i][0])
                 $('.week_whole_wrapper').append('\
                     <div class="week board"">\
                         <div class="text_inner text_inner">\
                         <div class="text_inner_wrapper text_inner_wrapper_'+i+'">\
-            <div class="text_inner_content text_inner_content_1 ' + new_text_content_org[i][0] + '">' + new_text_content[i][0] + '</div>\
-            <div class="text_inner_content text_inner_content_2 ' + new_text_content_org[i][1] + '">' + new_text_content[i][1] + '</div>\
-            <div class="text_inner_content text_inner_content_3 ' + new_text_content_org[i][2] + '">' + new_text_content[i][2] + '</div>\
+            <div class="text_inner_content text_inner_content_1 ' + new_text_content_org[i][0] + '">' + new_text_content[i][0][0]+'</div>\
+            <div class="text_inner_content text_inner_content_2 ' + new_text_content_org[i][1] + '">' + new_text_content[i][1][0]+'</div>\
+            <div class="text_inner_content text_inner_content_3 ' + new_text_content_org[i][2] + '">' + new_text_content[i][2][0]+'</div>\
                         </div>\
                         </div>\
                     </div>\
@@ -57,19 +58,18 @@ width: 355vh}
                   $('.text_inner_wrapper_'+i).find('.sep_img').css({'width':(a-b-c-d) + 'px'})
                   if($('.text_inner_wrapper_'+i).find('.sep_img').length==1){
                     $('.text_inner_wrapper_'+i).find('.sep_img').css({'width':(a-b-c-d) + 'px'})
-                    console.log('1')
+                    
                     $('.text_inner_wrapper_'+i).find('.text_inner_wrapper').css({'background-color': 'red'})
                   }
                   if($('.text_inner_wrapper_'+i).find('.sep_img').length==2){
                     $('.text_inner_wrapper_'+i).find('.sep_img').css({'width':(a-b-c-d)/2 + 'px'})
-                    console.log('2')
+                    
                     $('.text_inner_wrapper_'+i).find('.text_inner_wrapper').css({'background-color': 'rebeccapurple'})
                   }
 //                   console.log(a)
 // console.log(b)
 // console.log(c)
 // console.log(d)
-                  console.log(a-b-c-d)
                 if(i == 0){
                     $('.sep_400-2').each(function(){
                             var count = 0
@@ -91,7 +91,32 @@ width: 355vh}
                     })
                 }
       }
+      var width_array
+      setTimeout(function(){
 
+                    var width_array = [0]
+                    var k = 1/$('.'+classname).find('.board').length
+                    $('.'+classname).find('.board_info_time_'+i).find('.text_inner_content').each(function(index){
+                      width_array.push($(this).outerWidth()/$(this).parent().outerWidth() + width_array[index])
+                      console.log(width_array)
+                      if(index == 2){
+                        console.log(width_array.length)
+                        $('.'+classname).find('.board').each(function(index_inner){
+                          for (var q = width_array.length - 2; q >= 0; q--) {
+                            if(((k*index_inner)>=width_array[q]&&
+                              (k*index_inner)<=width_array[q+1])
+                              ||
+                              ((k*index_inner)+k)>=width_array[q]&&
+                              ((k*index_inner)+k)<=width_array[q+1]){}else{
+                              $('.text_inner_content_'+q).remove()
+                            }
+                          }
+                        })
+
+                      }
+                    })
+
+      })
 		})
 	</script>
   <div class="week_whole_wrapper_wrapper">
