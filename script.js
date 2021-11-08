@@ -490,13 +490,9 @@ new_db = [
                 if(new_text_content_org[i][j].split('-')[0] == 'sep_img'){
                 	new_text_content[i][j][0] = ''
                 	for (var k = new_db[10][0][0].length - 1; k >= 0; k--) {
-                			new_text_content[i][j][0] = '<div class="sep_img_inner sep_img_inner_'+k+' sep_img_inner_whole_'+(new_db[10][0][0].length-1)+'" style = "background-image:url(img/ib_image_batch/'+new_db[10][0][0][k]+')"></div>'
-
-                			if(k==0){
-                				new_text_content[i][j][0] = new_text_content[i][j][0] + '<span class="quote">'+new_db[10][0][1] + '</span>'
-                			}
+                			new_text_content[i][j][0] = new_text_content[i][j][0] + '<div class="sep_img_inner sep_img_inner_'+k+' sep_img_inner_whole_'+(new_db[10][0][0].length-1)+'" style = "background-image:url(img/ib_image_batch/'+new_db[10][0][0][k]+')"><span class="quote">'+new_db[10][0][1][k] + '</span></div>'
                 		}
-                		new_text_content[i][j][1]= new_db[10][0][1]
+                		// new_text_content[i][j][1]= new_db[10][0][1]
                     new_db[10].shift()
 
                 }
@@ -876,19 +872,29 @@ function get_data_array() {
 										<div class="text_inner_content text_inner_content_3 ' + new_text_content_org[(k+inittime_d)%42][2] + ' text_inner_content_link_'+new_text_content[(k+inittime_d)%42][2][1]+'">' + new_text_content[(k+inittime_d)%42][2][0]+ '</span></div>\
 										')
 										var a = $('.'+classname).find('.text_inner_wrapper').outerWidth()
+										// console.log(a)
 										var b = $('.'+classname).find('.text_inner_content_1').outerWidth()
 										var c = $('.'+classname).find('.text_inner_content_2').outerWidth()
 										var d = $('.'+classname).find('.text_inner_content_3').outerWidth()
+											console.log($('.'+classname).find('.text_inner_content_3').outerWidth())
 										$('.'+classname).find('.text_inner_wrapper').addClass('text_inner_wrapper_'+(k+inittime_d)%42)
 										if(new_text_content_org[(k+inittime_d)%42][0].split('-')[0]==='sep_img'){
 											$('.'+classname+' .text_inner_content_1').addClass('sep_img')
-											b = 0}
+											// b = 0
+											// console.log(b)
+										}
 										if(new_text_content_org[(k+inittime_d)%42][1].split('-')[0]==='sep_img'){
 											$('.'+classname+' .text_inner_content_2').addClass('sep_img')
-											c = 0}
+											// c = 0
+											// console.log(c)
+										}
 										if(new_text_content_org[(k+inittime_d)%42][2].split('-')[0]==='sep_img'){
+											// console.log($('.'+classname).find('.text_inner_content_3').parent().attr('class'))
 											$('.'+classname+' .text_inner_content_3').addClass('sep_img')
-											d = 0}
+											d = 0
+											// console.log($('.'+classname).find('.text_inner_content_3').outerWidth())
+											// console.log($('.'+classname+' .text_inner_content_3'))
+										}
 										if($('.'+classname).find('.text_inner_wrapper').eq(0).find('.sep_img').length==1){
 											$('.'+classname).find('.sep_img').css({'width':(a-b-c-d) + 'px'})
 										}
@@ -902,6 +908,11 @@ function get_data_array() {
 										var  width_array = []
 										var k = 1/$('.'+classname).find('.board').length
 										var whole_w = $('.'+classname).find('.text_inner_wrapper').outerWidth()
+										// console.log(whole_w)
+										$('.'+classname).find('.text_inner_wrapper').each(function(){
+											// console.log($('.'+classname))
+											// console.log($(this).outerWidth())
+										})
 										$('.'+classname).find('.board_info_time_'+i).find('.text_inner_content').each(function(index){
 											 left_array.push($(this).outerWidth()/$(this).parent().outerWidth() + left_array[index]) 
 											 width_array.push($(this).outerWidth()/$(this).parent().outerWidth()) 

@@ -403,13 +403,16 @@ body{
 .sep_img-1{
     border-radius: 50%;
     border: 0.2vh solid white;
+    width: 0
 }
 .sep_img-3{
     border: 2.5vh solid white;
+    width: 0
     /*border-radius: 35vh*/
 }
 .sep_img-4{
-    background: linear-gradient(0deg, #ff0101 50%, #ffc904fc);}
+    background: linear-gradient(0deg, #ff0101 50%, #ffc904fc);
+width: 0}
     .sep_img-4>div{border-radius: 50%}
 .sep_img_inner{
     width: 100%;
