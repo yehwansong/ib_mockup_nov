@@ -47,24 +47,29 @@ width: 355vh}
                     </div>\
                 </div>')
 
-                  var a = $('.text_inner_wrapper_'+i).outerWidth()
-                  var b = $('.text_inner_wrapper_'+i).find('.text_inner_content_1').outerWidth()
-                  var c = $('.text_inner_wrapper_'+i).find('.text_inner_content_2').outerWidth()
-                  var d = $('.text_inner_wrapper_'+i).find('.text_inner_content_3').outerWidth()
                   $('.text_inner_wrapper_'+i).find('.sep_img-1').addClass('sep_img')
                   $('.text_inner_wrapper_'+i).find('.sep_img-2').addClass('sep_img')
                   $('.text_inner_wrapper_'+i).find('.sep_img-3').addClass('sep_img')
                   $('.text_inner_wrapper_'+i).find('.sep_img-4').addClass('sep_img')
-                  $('.text_inner_wrapper_'+i).find('.sep_img').css({'width':(a-b-c-d) + 'px'})
+                  var a = $('.text_inner_wrapper_'+i).outerWidth()
+                  var b = $('.text_inner_wrapper_'+i).find('.text_inner_content_1').outerWidth()
+                  if($('.text_inner_wrapper_'+i).find('.text_inner_content_1').hasClass('sep_img')){b = 0}
+                  var c = $('.text_inner_wrapper_'+i).find('.text_inner_content_2').outerWidth()
+                if($('.text_inner_wrapper_'+i).find('.text_inner_content_2').hasClass('sep_img')){c = 0}
+                  var d = $('.text_inner_wrapper_'+i).find('.text_inner_content_3').outerWidth()
+                if($('.text_inner_wrapper_'+i).find('.text_inner_content_3').hasClass('sep_img')){d = 0}
+                  console.log(a)
+                  console.log(b)
+                  console.log(c)
+                  console.log(d)
+                  // $('.text_inner_wrapper_'+i).find('.sep_img').css({'width':(a-b-c-d) + 'px'})
                   if($('.text_inner_wrapper_'+i).find('.sep_img').length==1){
                     $('.text_inner_wrapper_'+i).find('.sep_img').css({'width':(a-b-c-d) + 'px'})
-                    
-                    $('.text_inner_wrapper_'+i).find('.text_inner_wrapper').css({'background-color': 'red'})
+          
                   }
                   if($('.text_inner_wrapper_'+i).find('.sep_img').length==2){
                     $('.text_inner_wrapper_'+i).find('.sep_img').css({'width':(a-b-c-d)/2 + 'px'})
-                    
-                    $('.text_inner_wrapper_'+i).find('.text_inner_wrapper').css({'background-color': 'rebeccapurple'})
+          
                   }
 //                   console.log(a)
 // console.log(b)

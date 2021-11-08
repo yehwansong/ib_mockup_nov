@@ -488,7 +488,10 @@ new_db = [
                 if(new_text_content_org[i][j].split('-')[0] == 'sep_img'){
                 	new_text_content[i][j][0] = ''
                 	for (var k = new_db[10][0][0].length - 1; k >= 0; k--) {
-                			new_text_content[i][j][0] = new_text_content[i][j] + '<div class="sep_img_inner sep_img_inner_'+k+' sep_img_inner_whole_'+(new_db[10][0][0].length-1)+'" style = "background-image:url(img/ib_image_batch/'+new_db[10][0][0][k]+')"></div>'
+                			new_text_content[i][j][0] = new_text_content[i][j][0] + '<div class="sep_img_inner sep_img_inner_'+k+' sep_img_inner_whole_'+(new_db[10][0][0].length-1)+'" style = "background-image:url(img/ib_image_batch/'+new_db[10][0][0][k]+')"></div>'
+                			if(k==0){
+                				new_text_content[i][j][0] = new_text_content[i][j][0] + '<span class="quote">'+new_db[10][0][1] + '</span>'
+                			}
                 		}
                 		new_text_content[i][j][1]= new_db[10][0][1]
                     new_db[10].shift()

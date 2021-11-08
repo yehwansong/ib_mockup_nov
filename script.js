@@ -271,142 +271,81 @@ new_db = [
 	    "1. Kedua, waktu tahun 2014 saya berkuda dari Pamulang, Tangerang Selatan ke Parompong, Bandung, lewat jalan kampung. Saya banyak dibantu anak-anak untuk menunjukkan jalan. Bahkan mereka carikan rumput untuk makan kuda  dan dibawa ke lapangan. Saya jalan dengan dua ekor kuda milik sendiri, Merpu dan Arjuna Ireng. Kuda itu jenis sandalwood pony atau kuda pacu asli Indonesia setinggi 140 cm.Saya banyak mengobrol dengan anak-anak di jalan. <span class='serif'>Tapi begitu saya tanya soal asal usul nama kampung, mereka tidak tahu</span> dan tidak bisa cerita. Orangtuanya juga pada tidak tahu. Saya prihatin, karena saya ingin menulis daerah-daerah yang saya lalui, tapi tidak ada yang bisa bantu karena tidak pada tahun.<span class='serif'>Kalau cerita kampung itu hilang, mereka tidak ada ikatan emosional dengan kampung itu. Sehingga akhirnya mereka bisa tidak peduli dengan kampung itu. Imbasnya bahaya, mulai dari kemiskinan sampai pengangguran karena proses urbanisasi.</span>Sehingga begitu saya pulang, saya janji akan membawa buku ke kampung-kampung itu.Saya tidak membuat perpusatakaan. Tapi awal Pustaka Bergerak ada di Purbalingga.^^DONKEY LIBRARY, NIRWAN AHMAD ARSUKA$$https://www.suara.com/wawancara/2017/07/03/070000/nirwan-arsuka-pustaka-bergerak-buru-pembaca-ke-pelosok-negeri?page=all"
 	],  [
 		//img
-		[['_DSC9446_fullsize.jpg'],['name']],
-		[['_DSC9501_fullsize.jpg','_DSC9513_fullsize.jpg'],['name']],
-		[['_DSC9522_fullsize.jpg','_DSC9518_fullsize.jpg','_DSC9525_fullsize.jpg'],['name']],
-		[['_DSC9540_fullsize.jpg'],['name']],
-		[['_DSC9551_fullsize.jpg','_DSC9566_fullsize.jpg'],['name']],
-		[['2015-05-22_17.01.43.jpg'],['name']],
-		[['20150910_091357.jpg'],['name']],
-		[['20160916_104254.jpg','20160916_104256.jpg','20160916_104259.jpg'],['name']],
-		[['20160919_094957.jpg','20160919_094959.jpg','20160919_095000.jpg'],['name']],
-		[['20160919_095034.jpg','20160930_092128.jpg','20160930_092132.jpg'],['name']],
-		[['20161006_144344.jpg','20161006_144419.jpg','20161006_144453.jpg'],['name']],
-		[['Abuela_Eudocia_1.2.1.jpg'],['name']],
-		[['bread.docx'],['name']],
-		[['bread2.jpg','bread3.jpg'],['name']],
-		[['bread4.jpg'],['name']],
-		[['bread5.jpg'],['name']],
-		[['bread6.jpg','bread7.jpg'],['name']],
-		[['bread8.jpg'],['name']],
-		[['bread9.jpg'],['name']],
-		[['cooking/cooking_01.jpg','cooking/cooking_02.jpg','cooking/cooking_04.jpg','cooking/cooking_05.jpg','cooking/cooking_06.jpg'], 
-			['Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: the artists. Photo: Cooking Sections. ',
-			'Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: Atlas Arts. Photo: Ruth Clark. ',
-			'Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: the artists. Photo: Nicholas Middleton. ',
-			'Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: the artists. Photo: Colin Hattersley.',
-			'Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: the artists. Photo: Nicholas Middleton.']],
+		[['_DSC9446_fullsize.jpg'],['Yuta Nakamura']],
+		[['_DSC9501_fullsize.jpg','_DSC9513_fullsize.jpg'],['Yuta Nakamura']],
+		[['_DSC9522_fullsize.jpg','_DSC9518_fullsize.jpg','_DSC9525_fullsize.jpg'],['Yuta Nakamura']],
+		[['_DSC9540_fullsize.jpg'],['Yuta Nakamura']],
+		[['_DSC9551_fullsize.jpg','_DSC9566_fullsize.jpg'],['Yuta Nakamura']],
+		[['2015-05-22_17.01.43.jpg'],['Yuta Nakamura']],
+		[['20150910_091357.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['20160916_104254.jpg','20160916_104256.jpg','20160916_104259.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['20160919_094957.jpg','20160919_094959.jpg','20160919_095000.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['20160919_095034.jpg','20160930_092128.jpg','20160930_092132.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['20161006_144344.jpg','20161006_144419.jpg','20161006_144453.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Abuela_Eudocia_1.2.1.jpg'],['URSULA BIEMANN']],
+		[['bread.docx'],['BREAD AND PUPPET THEATRE']],
+		[['bread2.jpg','bread3.jpg'],['BREAD AND PUPPET THEATRE']],
+		[['bread4.jpg'],['BREAD AND PUPPET THEATRE']],
+		[['bread5.jpg'],['BREAD AND PUPPET THEATRE']],
+		[['bread6.jpg','bread7.jpg'],['BREAD AND PUPPET THEATRE']],
+		[['bread8.jpg'],['BREAD AND PUPPET THEATRE']],
+		[['bread9.jpg'],['BREAD AND PUPPET THEATRE']],
+		[['cooking/cooking_01.jpg','cooking/cooking_02.jpg','cooking/cooking_04.jpg','cooking/cooking_05.jpg','cooking/cooking_06.jpg'], ['Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: the artists. Photo: Cooking Sections. ','Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: Atlas Arts. Photo: Ruth Clark. ','Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: the artists. Photo: Nicholas Middleton. ','Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: the artists. Photo: Colin Hattersley.','Cooking Sections, CLIMAVORE: On Tidal Zones, 2017-ongoing. Installation view, Isle of Skye, Scotland. Courtesy: the artists. Photo: Nicholas Middleton.']],
 		[['cooking/cooking_07.jpg'], ['Cooking Sections, Devaluing Property Real Estate Agency, 2016. Installation view at The Empire Remains Shop, London. Courtesy: the artists. Photo: Cooking Sections. ']],
 		[['cooking/cooking_08.jpg'], ['Cooking Sections, The Empire Remains Shop, 2016. Installation view, London. Courtesy: the artists. Photo: Tim Bowditch. ']],
-		[['cooking/cooking_09.jpg','cooking/cooking_10.jpg','cooking/cooking_11.jpg','cooking/cooking_12.jpg'], 
-			['Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Giardino dei Giusti, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ',
-			'Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Giardino dei Giusti, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ',
-			'Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Giardino dei Giusti, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ',
-			'Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Giardino dei Giusti, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. '
-			]],
-		[['cooking/cooking_13.jpg','cooking/cooking_14.jpg','cooking/cooking_15.jpg','cooking/cooking_16.jpg','cooking/cooking_17.jpg','cooking/cooking_18.jpg','cooking/cooking_19.jpg'], 
-			['Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ',
-			'Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ',
-			'Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ',
-			'Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ',
-			'Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ',
-			'Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. '
-			]],
-		[['cooking/cooking_20.jpg','cooking/cooking_21.jpg','cooking/cooking_22.jpg','cooking/cooking_23.jpg'], 
-			['Cooking Sections, Offsetted, 2019. Installation view at Arthur Ross Architecture Gallery, Columbia University New York. Courtesy: GSAPP. Photo: James Ewing. ',
-			'Cooking Sections, Offsetted, 2019. Installation view at Arthur Ross Architecture Gallery, Columbia University New York. Courtesy: GSAPP. Photo: James Ewing. ',
-			'Cooking Sections, Offsetted, 2019. Installation view at Arthur Ross Architecture Gallery, Columbia University New York. Courtesy: GSAPP. Photo: James Ewing. ',
-			'Cooking Sections, Offsetted, 2019. Installation view at Arthur Ross Architecture Gallery, Columbia University New York. Courtesy: GSAPP. Photo: James Ewing. '
-			]],
-		[['cooking/cooking_25.jpg'], 
-			['Cooking Sections, Mussel Beach, 2019. CURRENT: LA Public Art Triennial. Installation view. Photo: Cooking Sections']],
-		[['cooking/cooking_26.jpg'], 
-			['Cooking Sections, Mussel Beach, 2019. CURRENT: LA Public Art Triennial. Installation detail. Photo: Cooking Sections']],
-		[['cooking/cooking_27.jpg'], 
-			['Salmon: A Red Herring. Image: Office Ben Ganz and Luke Libera Moore']],
+		[['cooking/cooking_09.jpg','cooking/cooking_10.jpg','cooking/cooking_11.jpg','cooking/cooking_12.jpg'], ['Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Giardino dei Giusti, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ','Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Giardino dei Giusti, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ','Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Giardino dei Giusti, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ','Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Giardino dei Giusti, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ']],
+		[['cooking/cooking_13.jpg','cooking/cooking_14.jpg','cooking/cooking_15.jpg','cooking/cooking_16.jpg','cooking/cooking_17.jpg','cooking/cooking_18.jpg','cooking/cooking_19.jpg'], ['Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ','Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ','Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ','Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ','Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ','Cooking Sections, What Is Above Is What Is Below, 2018. Installation view at Bastione S.M. dello Spasimo, Manifesta12, Palermo. Courtesy: the artists. Photo: Cooking Sections. ']],
+		[['cooking/cooking_20.jpg','cooking/cooking_21.jpg','cooking/cooking_22.jpg','cooking/cooking_23.jpg'], ['Cooking Sections, Offsetted, 2019. Installation view at Arthur Ross Architecture Gallery, Columbia University New York. Courtesy: GSAPP. Photo: James Ewing. ','Cooking Sections, Offsetted, 2019. Installation view at Arthur Ross Architecture Gallery, Columbia University New York. Courtesy: GSAPP. Photo: James Ewing. ','Cooking Sections, Offsetted, 2019. Installation view at Arthur Ross Architecture Gallery, Columbia University New York. Courtesy: GSAPP. Photo: James Ewing. ','Cooking Sections, Offsetted, 2019. Installation view at Arthur Ross Architecture Gallery, Columbia University New York. Courtesy: GSAPP. Photo: James Ewing. ']],
+		[['cooking/cooking_25.jpg'], ['Cooking Sections, Mussel Beach, 2019. CURRENT: LA Public Art Triennial. Installation view. Photo: Cooking Sections']],
+		[['cooking/cooking_26.jpg'], ['Cooking Sections, Mussel Beach, 2019. CURRENT: LA Public Art Triennial. Installation detail. Photo: Cooking Sections']],
+		[['cooking/cooking_27.jpg'], ['Salmon: A Red Herring. Image: Office Ben Ganz and Luke Libera Moore']],
 		[['cooking/cooking_28.jpg','cooking/cooking_29.jpg'], ['Cooking Sections, 2018. Courtesy: the artists. Photo: Lourdes Cabrera. ','Cooking Sections, 2017. Courtesy: Surface. Photo: Paul Plews.']],
-		[['cooking/cooking_34.jpg','cooking/cooking_35.jpg','cooking/cooking_36.jpg'], 
-			['Cooking Sections, Salmon: A Red Herring, 2020. Tate Britain, Art Now. Installation view. Photo: Tate. Requires image permission from Tate press office',
-			'Cooking Sections, Salmon: A Red Herring, 2020. Tate Britain, Art Now. Installation view. Photo: Tate. Requires image permission from Tate press office',
-			'Cooking Sections, Salmon: A Red Herring, 2020. Tate Britain, Art Now. Installation view. Photo: Tate. Requires image permission from Tate press office']],
+		[['cooking/cooking_34.jpg','cooking/cooking_35.jpg','cooking/cooking_36.jpg'], ['Cooking Sections, Salmon: A Red Herring, 2020. Tate Britain, Art Now. Installation view. Photo: Tate. Requires image permission from Tate press office','Cooking Sections, Salmon: A Red Herring, 2020. Tate Britain, Art Now. Installation view. Photo: Tate. Requires image permission from Tate press office','Cooking Sections, Salmon: A Red Herring, 2020. Tate Britain, Art Now. Installation view. Photo: Tate. Requires image permission from Tate press office']],
 		[['cooking/cooking_37.jpg'], ['Cooking Sections, Exhausted, 2021. SALT Beyoğlu. Installation detail. Photo: Mustafa Hazneci / SALT.']],
 		[['cooking/cooking_38.jpg'], ['Cooking Sections, The Lasting Pond, 2021. SALT Beyoğlu. Installation detail. Photo: Mustafa Hazneci / SALT.']],
-		[['Drone2_1.14.2.jpg'],['name']],
-		[['EducationalStudies02_023_OMP3236.jpg','EducationalStudies02_047_OMP3493.jpg','EducationalStudies02_052_OMP3451.jpg'],['name']],
-		[['Hernando3_1.9.1.jpg'],['name']],
-		[['IB-GP2.png'],['name']],
+		[['Drone2_1.14.2.jpg'],['URSULA BIEMANN']],
+		[['EducationalStudies02_023_OMP3236.jpg','EducationalStudies02_047_OMP3493.jpg','EducationalStudies02_052_OMP3451.jpg'],['URSULA BIEMANN']],
+		[['Hernando3_1.9.1.jpg'],['URSULA BIEMANN']],
+		[['IB-GP2.png'],['URSULA BIEMANN']],
 		[['Microphones_in_shallow_waters_-_copie.jpg'],['name']],
-		[['Rubiela_cu2_1.53.3.jpg','Rubiela2_2.1.1.jpg'],['name']],
-		[['WR1F4C~1.jpg'],['name']],
-		[['WR3AB4~1.jpg','WR9F4C~1.jpg','WR20DD~1.jpg','WR55E6~1.jpg','WR542D~1.jpg','WR860D~1.jpg','WRE480~1.jpg','WRF3E3~1.jpg'],['name']],
+		[['Rubiela_cu2_1.53.3.jpg','Rubiela2_2.1.1.jpg'],['URSULA BIEMANN']],
+		[['WR1F4C~1.jpg'],['Eva Egermann']],
+		[['WR3AB4~1.jpg','WR9F4C~1.jpg','WR20DD~1.jpg','WR55E6~1.jpg','WR542D~1.jpg','WR860D~1.jpg','WRE480~1.jpg','WRF3E3~1.jpg'],['Eva Egermann']],
 		[['martha/2_MART~1.jpg'],['MARTHA ATIENZA Our Islands 11°16’58.4” N 123°45’07.0” E, 2017 (still) Image courtesy of SILVERLENS']],
 		[['martha/003marthaatienza.jpg'],['MARTHA ATIENZA Panangatan 11°09’53.3”N 123°42’40.5”E 2019-10-24 Thu 6:42 AM PST 1.29 meters High Tide 2019-10-12 Sat 10:26 AM PST 1.40 meters High Tide, 2019 (still) Image courtesy of SILVERLENS']],
 		[['martha/edwin_mask.jpg'],['Gilubong Ang Akong Pusod SaDagat (My Navel is Buried in the Sea), 2011 (still) Image courtesy of SILVERLENS']],
 		[['martha/Equation_of_State_2019_Installation_View_Courtesy_of_Silverlens_17.jpg'],['www.silverlensgalleries.com info@silverlensgalleries.com 2263 Don Chino Roces Ave Ext, Makati City 1231, Philippines T & F +63 2 8816 0044 | M +63917 587 4011 MARTHA ATIENZA Equation of State II Rhizophora stylosa, 2019 Installation image courtesy of SILVERLENS']],
-		[['martha/GOMA_APT9_installationview_20181128_nharth_010.jpg',
-			'martha/MARTHA_ATIENZA_Anito_1_2012-2015_single-channel_HD_video_9_min_loop_audio.png',
-			'martha/Martha_Atienza_Anito1_Nassauischer_Kunstverein_Wiesbaden_2018_Photo_Janine_Drewes.jpg'],
-			['MARTHA ATIENZA Our Islands 11°16’58.4” N 123°45’07.0” E, 2017 Installation image courtesy of QUEENSLAND ART GALLERY |GALLERY OF MODERN ART (QAGOMA)',
-			'MARTHA ATIENZA Anito 1, 2011-2015 (still) Image courtesy of SILVERLENS',
-			'MARTHA ATIENZA Anito 1, 2011-2015 Installation image courtesy of JANINE DREWES, NASSAUISCHER KUNSTVEREIN WIESBADEN']
-		],
+		[['martha/GOMA_APT9_installationview_20181128_nharth_010.jpg','martha/MARTHA_ATIENZA_Anito_1_2012-2015_single-channel_HD_video_9_min_loop_audio.png','martha/Martha_Atienza_Anito1_Nassauischer_Kunstverein_Wiesbaden_2018_Photo_Janine_Drewes.jpg'],['MARTHA ATIENZA Our Islands 11°16’58.4” N 123°45’07.0” E, 2017 Installation image courtesy of QUEENSLAND ART GALLERY |GALLERY OF MODERN ART (QAGOMA)','MARTHA ATIENZA Anito 1, 2011-2015 (still) Image courtesy of SILVERLENS','MARTHA ATIENZA Anito 1, 2011-2015 Installation image courtesy of JANINE DREWES, NASSAUISCHER KUNSTVEREIN WIESBADEN']],
 		[['martha/MARTHA~1.jpg'],['MARTHA ATIENZA Equation of State II Rhizophora stylosa, 2019 Installation image courtesy of SILVERLENS']],
-		[['oda/8.JPG','oda/1.jpg','oda/2.JPG','oda/3.JPG','oda/4.JPG','oda/5.JPG','oda/6.JPG','oda/7.JPG'],
-			['ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.',
-			'ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.',
-			'ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.',
-			'ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.',
-			'ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.',
-			'ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.',
-			'ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.',
-			'ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.']],
+		[['oda/8.JPG','oda/1.jpg','oda/2.JPG','oda/3.JPG','oda/4.JPG','oda/5.JPG','oda/6.JPG','oda/7.JPG'],['ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.','ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.','ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.','ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.','ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.','ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.','ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.','ANA project, (a project on art and motherhood, in progress), June 2013, Copenhagen, Denmark, A.N.A. AIR - Astrid Noack’s Atelier residency.']],
 		[['papaya/IB-GP6.JPG'],["A performance by Elisa Ferrari and Gabi Dao during Kamias Triennial 3 at Green Papaya's space in Quezon City. Photo by Yuji De Torres."]],
 		[['papaya/IB-GP1.png'],['Screenshot of published materials for “Right People, Wrong Timing” (online)']],
 		[['papaya/IB-GP5.JPG'],['“Sa Digma ng Halimaw" a play on extrajudicial killings in the Philippines presented during Jejak Tabi Exchange 2020 -- an international platform on contemporary performance that Green Papaya Art Projects co-curated. Photo courtesy of Green Papaya Art Projects.']],
-		[['PICTURES_AND_CREDIT/BA2019~1.JPG'],[]],
+		[['PICTURES_AND_CREDIT/BA2019~1.JPG'],['Eva Egermann']],
 		[['PICTURES_AND_CREDIT/Crip_Magazine_2_1.jpg'],['Eva Egermann, Coverdesign of Crip Magazine #2 by Anna Voswinckel']],
 		[['PICTURES_AND_CREDIT/DA_A7_02273.jpg','PICTURES_AND_CREDIT/DA_IMG_0611.JPG'],['Eva Egermann, Hold off, but hold me (with texts by Ianina Ilitcheva) Installation view, Central Garden, 2020, courtesy the artist, photo: Kunsthalle Wien','Eva Egermann, Hold off, but hold me (with a text by Ianina Ilitcheva, 183 Tage, 2015), Central Garden, 2020, courtesy the artist, photo: Kunsthalle Wien']],
-		[['PICTURES_AND_CREDIT/DSC00544.jpg','PICTURES_AND_CREDIT/DSC00569.JPG','PICTURES_AND_CREDIT/DSC00671.jpg','PICTURES_AND_CREDIT/DSC00676.jpg'],
-		[	'Bild: Freizeittreff Freimann, Cyborg Disco Party. Freizeittreff Freimann, Eva Egermann und Der Fahrende Raum, im Rahmen der Cyborg Disco Werkstatt 2018'
-			,'Bild: Freizeittreff Freimann, Cyborg Disco Party. Freizeittreff Freimann, Eva Egermann und Der Fahrende Raum, im Rahmen der Cyborg Disco Werkstatt 2018'
-			,'Bild: Freizeittreff Freimann, Cyborg Disco Party. Freizeittreff Freimann, Eva Egermann und Der Fahrende Raum, im Rahmen der Cyborg Disco Werkstatt 2018'
-			,'Bild: Freizeittreff Freimann, Cyborg Disco Party. Freizeittreff Freimann, Eva Egermann und Der Fahrende Raum, im Rahmen der Cyborg Disco Werkstatt 2018'
-			]],
+		[['PICTURES_AND_CREDIT/DSC00544.jpg','PICTURES_AND_CREDIT/DSC00569.JPG','PICTURES_AND_CREDIT/DSC00671.jpg','PICTURES_AND_CREDIT/DSC00676.jpg'],['Bild: Freizeittreff Freimann, Cyborg Disco Party. Freizeittreff Freimann, Eva Egermann und Der Fahrende Raum, im Rahmen der Cyborg Disco Werkstatt 2018','Bild: Freizeittreff Freimann, Cyborg Disco Party. Freizeittreff Freimann, Eva Egermann und Der Fahrende Raum, im Rahmen der Cyborg Disco Werkstatt 2018','Bild: Freizeittreff Freimann, Cyborg Disco Party. Freizeittreff Freimann, Eva Egermann und Der Fahrende Raum, im Rahmen der Cyborg Disco Werkstatt 2018','Bild: Freizeittreff Freimann, Cyborg Disco Party. Freizeittreff Freimann, Eva Egermann und Der Fahrende Raum, im Rahmen der Cyborg Disco Werkstatt 2018']],
 		[['PICTURES_AND_CREDIT/EJdTwwdw.jpeg'],['Bild: Freizeittreff Freimann, Cyborg Disco Party. Freizeittreff Freimann, Eva Egermann und Der Fahrende Raum, im Rahmen der Cyborg Disco Werkstatt 2018']],
 		[['PICTURES_AND_CREDIT/Eva_IMG_0002.JPG','PICTURES_AND_CREDIT/Eva_IMG_0008.JPG'],['Eva Egermann, Hold off, but hold me (with a text by Ianina Ilitcheva, ich sehe die einsamkeit vor mir und sie ist leicht, hochroth München 2018), 2020, photo: Kunsthalle Wien','Eva Egermann, Hold off, but hold me (with a text by Ianina Ilitcheva, 183 Tage, 2015), Kaleidoskop. Fragmente, July 15, 2020, courtesy the artist, photo: Eva Egermann']],
-		[['PICTURES_AND_CREDIT/Eva_IMG_0017.JPG',
-		'PICTURES_AND_CREDIT/Eva_IMG_0047.JPG',
-		'PICTURES_AND_CREDIT/Eva_IMG_0063.JPG',
-		'PICTURES_AND_CREDIT/Eva_IMG_0103.JPG',
-		'PICTURES_AND_CREDIT/IMG_E2262.JPG'],
-		['Eva Egermann, Hold off, but hold me (Hospitalfood,Waitingroom,Handle, 2011), Central Garden, 2020, courtesy the artist, photo: Eva Egermann',
-		'Eva Egermann, Hold off, but hold me (CURE ALL NEUROTYPICALS NOW!, Mad Pride Parade Berlin 2019), Central Garden, 2020, courtesy the artist, photo: Eva Egermann',
-		'Eva Egermann, Hold off, but hold me (with a text by Ianina Ilitcheva, @blutundkaffee (65), Frohmann, 2017; WAGEN ZUM AUSRUHEN, Mad Pride Parade Berlin 2019), Central Garden, 2020, courtesy the artist, photo: Eva Egermann',
-		'Eva Egermann, Hold off, but hold me (NO ACCESS NO PEACE, Mad Pride Parade Berlin 2019), Central Garden, 2020, courtesy the artist, photo: Eva Egermann',
-		'Bild: Eva Egermann, Der Fahrende Raum im Rahmen der Cyborg Disco Werkstatt 2018']],
+		[['PICTURES_AND_CREDIT/Eva_IMG_0017.JPG','PICTURES_AND_CREDIT/Eva_IMG_0047.JPG','PICTURES_AND_CREDIT/Eva_IMG_0063.JPG','PICTURES_AND_CREDIT/Eva_IMG_0103.JPG','PICTURES_AND_CREDIT/IMG_E2262.JPG'],['Eva Egermann, Hold off, but hold me (Hospitalfood,Waitingroom,Handle, 2011), Central Garden, 2020, courtesy the artist, photo: Eva Egermann','Eva Egermann, Hold off, but hold me (CURE ALL NEUROTYPICALS NOW!, Mad Pride Parade Berlin 2019), Central Garden, 2020, courtesy the artist, photo: Eva Egermann','Eva Egermann, Hold off, but hold me (with a text by Ianina Ilitcheva, @blutundkaffee (65), Frohmann, 2017; WAGEN ZUM AUSRUHEN, Mad Pride Parade Berlin 2019), Central Garden, 2020, courtesy the artist, photo: Eva Egermann','Eva Egermann, Hold off, but hold me (NO ACCESS NO PEACE, Mad Pride Parade Berlin 2019), Central Garden, 2020, courtesy the artist, photo: Eva Egermann','Bild: Eva Egermann, Der Fahrende Raum im Rahmen der Cyborg Disco Werkstatt 2018']],
 		[['PICTURES_AND_CREDIT/P1080075.jpg'],['Bild: Eva Egermann, Der Fahrende Raum im Rahmen der Cyborg Disco Werkstatt 2018']],
-		[['PICTURES_AND_CREDIT/WR00B2~1.JPG','PICTURES_AND_CREDIT/WR403B~1.JPG',
-'PICTURES_AND_CREDIT/WRC961~1.JPG',
-'PICTURES_AND_CREDIT/WRNEUS~2.JPG',
-'PICTURES_AND_CREDIT/WRNEUS~4.JPG'],[]],
-		[['Pranabesh_Das/10_Eclipse.jpg','Pranabesh_Das/02_Eclipse.jpg',
-'Pranabesh_Das/06_Eclipse.jpg',
-'Pranabesh_Das/07_Eclipse.jpg'],[]],
-		[['Salma_Abedin_Prithi/26_Salma_Abedin_Prithi.jpg','Salma_Abedin_Prithi/38_Salma_Abedin_Prithi.jpg'],[]],
-		[['Samsul_Alam_Helal/Under_Water_Chakma_Royal_Palace_dummy_.jpg','Samsul_Alam_Helal/19_Disappearing_Roots.jpg','Samsul_Alam_Helal/13_Disappearing_Roots.jpg','Samsul_Alam_Helal/14_Disappearing_Roots.jpg'],[]],
-		[['Sarker_Protick/002_Sarker_Elegy_.JPG','Sarker_Protick/001_Sarker_Elegy_.JPG'],[]],
-		[['Shadman_Shahid/Shadman_Shahid_No_Quarter_12.jpg','Shadman_Shahid/Shadman_Shahid_No_Quarter_05.jpg','Shadman_Shahid/Shadman_Shahid_No_Quarter_10.jpg'],[]],
-		[['Shahidul_Alam/Kalpanas_Warriors_mat_and_candle_Somari_Chakma.jpg'],[]],
-		[['Shahidul_Alam/Kalpana_Dress_7143.jpg'],[]],
-		[['Shahidul_Alam/Kalpana_s_warriors_at_Rubin_2446_pix.jpg'],[]],
-		[['Shahidul_Alam/Kalpanas_Warriors_installation_shot.jpg'],[]],
-		[['Shahria_Sharmin/shahria_sharmin_03.jpg'],[]],
-		[['Shahria_Sharmin/shahria_sharmin_01.jpg'],[]],
-		[['Shahria_Sharmin/shahria_sharmin_02.jpg'],[]],
+		[['PICTURES_AND_CREDIT/WR00B2~1.JPG','PICTURES_AND_CREDIT/WR403B~1.JPG','PICTURES_AND_CREDIT/WRC961~1.JPG','PICTURES_AND_CREDIT/WRNEUS~2.JPG','PICTURES_AND_CREDIT/WRNEUS~4.JPG'],['Eva Egermann']],
+		[['Pranabesh_Das/10_Eclipse.jpg','Pranabesh_Das/02_Eclipse.jpg','Pranabesh_Das/06_Eclipse.jpg','Pranabesh_Das/07_Eclipse.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Salma_Abedin_Prithi/26_Salma_Abedin_Prithi.jpg','Salma_Abedin_Prithi/38_Salma_Abedin_Prithi.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Samsul_Alam_Helal/Under_Water_Chakma_Royal_Palace_dummy_.jpg','Samsul_Alam_Helal/19_Disappearing_Roots.jpg','Samsul_Alam_Helal/13_Disappearing_Roots.jpg','Samsul_Alam_Helal/14_Disappearing_Roots.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Sarker_Protick/002_Sarker_Elegy_.JPG','Sarker_Protick/001_Sarker_Elegy_.JPG'],['NIRWAN AHMAD ARSUKA']],
+		[['Shadman_Shahid/Shadman_Shahid_No_Quarter_12.jpg','Shadman_Shahid/Shadman_Shahid_No_Quarter_05.jpg','Shadman_Shahid/Shadman_Shahid_No_Quarter_10.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Shahidul_Alam/Kalpanas_Warriors_mat_and_candle_Somari_Chakma.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Shahidul_Alam/Kalpana_Dress_7143.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Shahidul_Alam/Kalpana_s_warriors_at_Rubin_2446_pix.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Shahidul_Alam/Kalpanas_Warriors_installation_shot.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Shahria_Sharmin/shahria_sharmin_03.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Shahria_Sharmin/shahria_sharmin_01.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Shahria_Sharmin/shahria_sharmin_02.jpg'],['NIRWAN AHMAD ARSUKA']],
 		[['TAREK_TAOUI_LAST/ROOM2_58.TIF'],['Tarek Atoui, Ausstellungsaufbau / exhibition setup Waters’ Witness, Fridericianum, September 2020 Foto / Photo: Nicolas Wefers']],
 		[['TAREK_TAOUI_LAST/ROOM2_06.TIF'],["Tarek Atoui: Waters' Witness, Ausstellungsansicht / Installation view, © der Künstler und / the artist and Fridericianum, Foto / Photo: Andrea Rossetti"]],
-		[['Taslima_Akhter/00_Photo_10.jpg'],['']],
-		[['Taslima_Akhter/01_MG_0113_copy.jpg'],['']]
+		[['Taslima_Akhter/00_Photo_10.jpg'],['NIRWAN AHMAD ARSUKA']],
+		[['Taslima_Akhter/01_MG_0113_copy.jpg'],['NIRWAN AHMAD ARSUKA']]
 		]
 	]
         var new_text_content_org=[
@@ -551,7 +490,11 @@ new_db = [
                 if(new_text_content_org[i][j].split('-')[0] == 'sep_img'){
                 	new_text_content[i][j][0] = ''
                 	for (var k = new_db[10][0][0].length - 1; k >= 0; k--) {
-                			new_text_content[i][j][0] = new_text_content[i][j] + '<div class="sep_img_inner sep_img_inner_'+k+' sep_img_inner_whole_'+(new_db[10][0][0].length-1)+'" style = "background-image:url(img/ib_image_batch/'+new_db[10][0][0][k]+')"></div>'
+                			new_text_content[i][j][0] = '<div class="sep_img_inner sep_img_inner_'+k+' sep_img_inner_whole_'+(new_db[10][0][0].length-1)+'" style = "background-image:url(img/ib_image_batch/'+new_db[10][0][0][k]+')"></div>'
+
+                			if(k==0){
+                				new_text_content[i][j][0] = new_text_content[i][j][0] + '<span class="quote">'+new_db[10][0][1] + '</span>'
+                			}
                 		}
                 		new_text_content[i][j][1]= new_db[10][0][1]
                     new_db[10].shift()
@@ -743,6 +686,7 @@ if(isMobile){$('body').addClass('mobile')}
 	var intervention_on = false
 	var popup_counter = 1
 	var mark_amount = 0
+	var link
 
 	var current_scroll
 
@@ -751,6 +695,7 @@ if(isMobile){$('body').addClass('mobile')}
 	var week_whole_wrapper_animate_val_2 = 0
 	var currentrotation = 0
 	var scroll_ani_counter =0
+	var pre_final_val = 0
 
 	var today_string = new Date().getUTCFullYear()+'/'+("0" + (new Date().getUTCMonth()+1)).slice(-2)+'/'+("0" + new Date().getUTCDate()).slice(-2)
 	if(window.location.hash && window.location.hash.split('#goto_').length>1){
@@ -789,6 +734,10 @@ if(isMobile){$('body').addClass('mobile')}
 	var wrapper_translatez = 10
 	var ismobile = false
 	var scrollinit = true
+	var clickblock = true
+
+	var mousepos_x = 0
+	var mousepos_y = 0
 	if(window.innerHeight > window.innerWidth){
 		ismobile = true
 	}
@@ -922,29 +871,30 @@ function get_data_array() {
 							    append_weekitems(i,k,classname)
 								if(i == number_of_board-1){
 										$('.'+classname).find('.text_inner_wrapper').append('\
-										<div class="text_inner_content text_inner_content_1 ' + new_text_content_org[(k+inittime_d)%42][0] + '">' + new_text_content[(k+inittime_d)%42][0][0]+ '</span></div>\
-										<div class="text_inner_content text_inner_content_2 ' + new_text_content_org[(k+inittime_d)%42][1] + '">' + new_text_content[(k+inittime_d)%42][1][0]+ '</span></div>\
-										<div class="text_inner_content text_inner_content_3 ' + new_text_content_org[(k+inittime_d)%42][2] + '">' + new_text_content[(k+inittime_d)%42][2][0]+ '</span></div>\
+										<div class="text_inner_content text_inner_content_1 ' + new_text_content_org[(k+inittime_d)%42][0] + ' text_inner_content_link_'+new_text_content[(k+inittime_d)%42][0][1]+'">' + new_text_content[(k+inittime_d)%42][0][0]+ '</span></div>\
+										<div class="text_inner_content text_inner_content_2 ' + new_text_content_org[(k+inittime_d)%42][1] + ' text_inner_content_link_'+new_text_content[(k+inittime_d)%42][1][1]+'">' + new_text_content[(k+inittime_d)%42][1][0]+ '</span></div>\
+										<div class="text_inner_content text_inner_content_3 ' + new_text_content_org[(k+inittime_d)%42][2] + ' text_inner_content_link_'+new_text_content[(k+inittime_d)%42][2][1]+'">' + new_text_content[(k+inittime_d)%42][2][0]+ '</span></div>\
 										')
-										$('.'+classname).find('.text_inner_wrapper').addClass('text_inner_wrapper_'+(k+inittime_d)%42)
-										if(new_text_content_org[(k+inittime_d)%42][0].split('-')[0]==='sep_img'){
-											$('.'+classname+' .text_inner_content_1').addClass('sep_img')}
-										if(new_text_content_org[(k+inittime_d)%42][1].split('-')[0]==='sep_img'){
-											$('.'+classname+' .text_inner_content_2').addClass('sep_img')}
-										if(new_text_content_org[(k+inittime_d)%42][2].split('-')[0]==='sep_img'){
-											$('.'+classname+' .text_inner_content_3').addClass('sep_img')}
 										var a = $('.'+classname).find('.text_inner_wrapper').outerWidth()
 										var b = $('.'+classname).find('.text_inner_content_1').outerWidth()
 										var c = $('.'+classname).find('.text_inner_content_2').outerWidth()
 										var d = $('.'+classname).find('.text_inner_content_3').outerWidth()
+										$('.'+classname).find('.text_inner_wrapper').addClass('text_inner_wrapper_'+(k+inittime_d)%42)
+										if(new_text_content_org[(k+inittime_d)%42][0].split('-')[0]==='sep_img'){
+											$('.'+classname+' .text_inner_content_1').addClass('sep_img')
+											b = 0}
+										if(new_text_content_org[(k+inittime_d)%42][1].split('-')[0]==='sep_img'){
+											$('.'+classname+' .text_inner_content_2').addClass('sep_img')
+											c = 0}
+										if(new_text_content_org[(k+inittime_d)%42][2].split('-')[0]==='sep_img'){
+											$('.'+classname+' .text_inner_content_3').addClass('sep_img')
+											d = 0}
 										if($('.'+classname).find('.text_inner_wrapper').eq(0).find('.sep_img').length==1){
 											$('.'+classname).find('.sep_img').css({'width':(a-b-c-d) + 'px'})
 										}
 										if($('.'+classname).find('.text_inner_wrapper').eq(0).find('.sep_img').length==2){
 											$('.'+classname).find('.sep_img').css({'width':(a-b-c-d)/2 + 'px'})
 										}
-
-
 
 
 										// 개수줄이
@@ -976,7 +926,7 @@ function get_data_array() {
 											}
 										})
 
-										
+
 
 									if(callback){
 
@@ -1027,8 +977,6 @@ function get_data_array() {
 								$('.'+classname).append('<div class="spiral board board_info_time_'+i+'" style="\
 									width:'+(get_width(translatez,number_of_board))+'vw;\
 									transform:translateX(-50%) rotateY('+((-360/number_of_board)*i)+'deg) translateZ(-'+translatez+'vw);\
-									background-position:'+ (-1*get_width(translatez,number_of_board)*(i)) +'vw top;\
-									background-size:'+ (get_width(translatez,number_of_board)*number_of_board) +'vw 100%;\
 									">\
 									<div class="spiral_board_inner spiral_board_inner_outerwall"></div>\
 									<div class="text_inner" style="\
@@ -1042,12 +990,58 @@ function get_data_array() {
 					            			$('.'+classname).find('.spiral_board_inner_outerwall').css({'opacity':0})
 						            	}
 							if(i == number_of_board-1){
+								if( week_array[k]<12
+									){
 									$('.'+classname).find('.text_inner_wrapper').append('\
-									<div class="text_inner_content text_inner_content_1 ' + new_text_content_org[(k+inittime_d)%42][0] + '">' + new_text_content[(k+inittime_d)%42][0][0]+'</span></div>\
+									<div class="text_inner_content text_inner_content_1  ' + new_text_content_org[(k+inittime_d)%42][0] + '">' + new_text_content[(k+inittime_d)%42][0][0]+'</span></div>\
 									<div class="text_inner_content text_inner_content_2 ' + new_text_content_org[(k+inittime_d)%42][1] + '">' + new_text_content[(k+inittime_d)%42][1][0]+'</span></div>\
 									<div class="text_inner_content text_inner_content_3 ' + new_text_content_org[(k+inittime_d)%42][2] + '">' + new_text_content[(k+inittime_d)%42][2][0]+'</span></div>\
 									')
-									
+										$('.'+classname).find('.text_inner_wrapper').addClass('text_inner_wrapper_'+(k+inittime_d)%42)
+										if(new_text_content_org[(k+inittime_d)%42][0].split('-')[0]==='sep_img'){
+											$('.'+classname+' .text_inner_content_1').addClass('sep_img')}
+										if(new_text_content_org[(k+inittime_d)%42][1].split('-')[0]==='sep_img'){
+											$('.'+classname+' .text_inner_content_2').addClass('sep_img')}
+										if(new_text_content_org[(k+inittime_d)%42][2].split('-')[0]==='sep_img'){
+											$('.'+classname+' .text_inner_content_3').addClass('sep_img')}
+										var a = $('.'+classname).find('.text_inner_wrapper').outerWidth()
+										var b = $('.'+classname).find('.text_inner_content_1').outerWidth()
+										var c = $('.'+classname).find('.text_inner_content_2').outerWidth()
+										var d = $('.'+classname).find('.text_inner_content_3').outerWidth()
+										if($('.'+classname).find('.text_inner_wrapper').eq(0).find('.sep_img').length==1){
+											$('.'+classname).find('.sep_img').css({'width':(a-b-c-d) + 'px'})
+										}
+										if($('.'+classname).find('.text_inner_wrapper').eq(0).find('.sep_img').length==2){
+											$('.'+classname).find('.sep_img').css({'width':(a-b-c-d)/2 + 'px'})
+										}
+										var  left_array = [0]
+										var  width_array = []
+										var k = 1/$('.'+classname).find('.board').length
+										var whole_w = $('.'+classname).find('.text_inner_wrapper').outerWidth()
+										$('.'+classname).find('.board_info_time_'+i).find('.text_inner_content').each(function(index){
+											 left_array.push($(this).outerWidth()/$(this).parent().outerWidth() + left_array[index]) 
+											 width_array.push($(this).outerWidth()/$(this).parent().outerWidth()) 
+											$('.'+classname).find('.text_inner_content_'+(index+1)).attr('style','left:'+(left_array[index]*whole_w)+'px !important; position:absolute !important; width:'+width_array[index]*whole_w+'px')
+											// $('.'+classname).find('.text_inner_content_'+(index+1)).css({'left':(left_array[index])+'% !important'})
+											if(index == 2){
+												// $('.'+classname).find('.text_inner_content').attr('style','left:'+(left_array[index])+'% !important')
+												// $('.'+classname).find('.text_inner_content').attr('style', 'position:absolute !important')
+												$('.'+classname).find('.board').each(function(index_inner){
+													for (var q = left_array.length - 2; q >= 0; q--) {
+														if(((k*index_inner)>=left_array[q]&&
+															(k*index_inner)<=left_array[q+1])
+															||
+															((k*index_inner)+k)>=left_array[q]&&
+															((k*index_inner)+k)<=left_array[q+1]){
+															}else{
+															$(this).find('.text_inner_content_'+(q+1)).remove()
+														}
+													}
+												})
+
+											}
+										})
+									}
 								}
 					}     	
             }
@@ -1113,7 +1107,6 @@ function get_data_array() {
 
 			function scroll_ani(){
 				var scroll_array = [14,110,238]
-				console.log(parseInt(scroll_array[scroll_ani_counter%scroll_array.length])/scrollspeed*(window.innerHeight/100))
 				$('.fake_scroll_wrapper').scrollTop(parseInt(scroll_array[scroll_ani_counter%scroll_array.length])/scrollspeed*(window.innerHeight/100))
 
 				move_wrapper(false)
@@ -1123,7 +1116,6 @@ function get_data_array() {
 				},1000)
 			}
             function week_scroll(){
-            	console.log('hey')
             	$('.week_whole_wrapper').css({'transition':'transform 0s'})
 	            $('.fake_scroll_wrapper').on('scroll', function() {
             		$('.week_whole_wrapper').css({'transition':'transform 0s'})
@@ -1132,14 +1124,14 @@ function get_data_array() {
 	            	if(scrollinit||intervention_on){
 	            		if(scrollinit){
 	            			move_wrapper(true)
-	            			console.log('s;hlkdjglfkdsj')
 	            		}
 	            		scrollinit = false
+	            		console.log('hlk')
 	            	}else{
 	            		$('.followcursor').css({'opacity':0})
+	            		clickblock = false
 					    // down to top
 					    // scrollpos = ($('.fake_scroll_wrapper').scrollTop())/(window.innerHeight/100) * scrollspeed
-					    console.log(scrollpos)
 					    // console.log($('.fake_scroll_wrapper').scrollTop()/$('.fake_scroll_wrapper').outerHeight()
 					    move_wrapper(false)
 	            	}
@@ -1197,20 +1189,17 @@ function get_data_array() {
             	},100)
             }
             function rotate_time(init){
-            	currentrotation = currentrotation + 360/(24*60*6)
+            	currentrotation = currentrotation - 360/(24*60*6)
             	if(!init){
 					move_wrapper(false)
 				}
 				$('.camera_wrapper').css({'transform':'rotate('+(pos_to_rot(scrollpos+currentrotation)+90)+'deg)'})
 				if(pos_to_rot(scrollpos+currentrotation)%360 < 180){
-					// $('.camera_wrapper').css({'margin-top':-0.5*spiral_unit + 'px'})
 				}else{
-					// $('.camera_wrapper').css({'margin-top':'0px'})
 				}
 				setTimeout(function(){rotate_time(false)},10000)
             }
             function move_wrapper(init){
-            	console.log(init)
             	if(scrollpos > scrolldirection_value){
             		scrolldirection = 'down'
             	}else{
@@ -1226,9 +1215,7 @@ function get_data_array() {
             		transition = (translatey-scrollpos%translatey) * translatey/20
             	}
             	var k = Math.floor(scrollpos/translatey)
-            	console.log(scrollpos)
             	setTimeout(function(){
-            		console.log(scrollpos)
             	},1000)
             	if(init){
             				$('.weekwrapper_'+ Math.floor(k-2)).addClass('weekwarpper_prev2')
@@ -1362,7 +1349,7 @@ function get_data_array() {
 							week_whole_wrapper_animate_val_2 = wrapper_translatez
 							
 						}else{
-							$('.week_whole_wrapper').css({'transform':' perspective(41.5vh) scale(0.55) rotateX(0deg) translateY( '+ (-1*(Math.floor(scrollpos/translatey)*translatey)-(translatey-transition)) +'vh) translateZ('+wrapper_translatez+'vw)  rotateY('+pos_to_rot(scrollpos+currentrotation)+'deg)'})	
+							$('.week_whole_wrapper').css({'transform':' perspective(41.5vh) scaleY(0.55) scaleX(0.6) rotateX(0deg) translateY( '+ (-1*(Math.floor(scrollpos/translatey)*translatey)-(translatey-transition)) +'vh) translateZ('+wrapper_translatez+'vw)  rotateY('+pos_to_rot(scrollpos+currentrotation)+'deg)'})	
 							week_whole_wrapper_animate_val_1 = -1*(Math.floor(scrollpos/translatey)*translatey)-(translatey-transition)
 							week_whole_wrapper_animate_val_2 = wrapper_translatez
 							
@@ -1374,7 +1361,7 @@ function get_data_array() {
 							week_whole_wrapper_animate_val_2 = wrapper_translatez
 							
 						}else{
-							$('.week_whole_wrapper').css({'transform':'perspective(41.5vh) scale(0.55) rotateX(0deg) translateY( '+ (-1*(Math.floor(scrollpos/translatey)*translatey)-(translatey-transition)) +'vh) translateZ('+wrapper_translatez+'vw)  rotateY('+pos_to_rot(scrollpos+currentrotation)+'deg)'})	
+							$('.week_whole_wrapper').css({'transform':'perspective(41.5vh) scaleY(0.55) scaleX(0.6) rotateX(0deg) translateY( '+ (-1*(Math.floor(scrollpos/translatey)*translatey)-(translatey-transition)) +'vh) translateZ('+wrapper_translatez+'vw)  rotateY('+pos_to_rot(scrollpos+currentrotation)+'deg)'})	
 							week_whole_wrapper_animate_val_1 = -1*(Math.floor(scrollpos/translatey)*translatey)-(translatey-transition)
 							week_whole_wrapper_animate_val_2 = wrapper_translatez
 							
@@ -1386,12 +1373,38 @@ function get_data_array() {
 							week_whole_wrapper_animate_val_2 = wrapper_translatez
 							
 						}else{
-							$('.week_whole_wrapper').css({'transform':'perspective(41.5vh) scale(0.55) rotateX(0deg) translateY( '+ (-1*(Math.floor(scrollpos/translatey)*translatey)) +'vh) translateZ('+wrapper_translatez+'vw)  rotateY('+pos_to_rot(scrollpos+currentrotation)+'deg)'})	
+							$('.week_whole_wrapper').css({'transform':'perspective(41.5vh) scaleY(0.55) scaleX(0.6) rotateX(0deg) translateY( '+ (-1*(Math.floor(scrollpos/translatey)*translatey)) +'vh) translateZ('+wrapper_translatez+'vw)  rotateY('+pos_to_rot(scrollpos+currentrotation)+'deg)'})	
 							week_whole_wrapper_animate_val_1 = -1*(Math.floor(scrollpos/translatey)*translatey)
 							week_whole_wrapper_animate_val_2 = wrapper_translatez
 							
 						}
 					}
+						var current_rot = (pos_to_rot(scrollpos+currentrotation)+360000)%360
+						var current_unit = 360/$('.weekwarpper_current').find('.board').length
+						var final_val = Math.floor(current_rot/current_unit)
+						if(pre_final_val !==final_val){
+							pre_final_val = final_val
+							$('.weekwarpper_current .pre_board_sct').removeClass('pre_board_sct')
+							$('.weekwarpper_current .board_sct').removeClass('board_sct')
+							var pre_val = $('.weekwarpper_current .board_info_time_'+final_val).find('.text_inner_content').attr('class')
+							var val = $('.weekwarpper_current .board_info_time_'+final_val).find('.text_inner_content').attr('class').split('text_inner_content_')[1].split(' ')[0]
+							if(pre_val.split('sep_img').length>1){
+														link = 'image'
+													}else{
+														link = $('.weekwarpper_current .board_info_time_'+final_val).find('.text_inner_content').attr('class').split('text_inner_content_link_')[1].split(' ')[0]
+													}
+
+							$('.weekwarpper_current>.board>.text_inner>.text_inner_wrapper>.text_inner_content_'+val).addClass('pre_board_sct')
+							
+			            	if(mousepos_y<4/5*h && mousepos_y>1/5*h){
+			            		$('.pre_board_sct').addClass('board_sct')
+			            	}
+						}// $('.weekwarpper_current .board_info_time_'+final_val).addClass('board_sct')
+						// $('.weekwarpper_current .board_info_time_'+(final_val-1)).addClass('board_sct')
+						// $('.weekwarpper_current .board_info_time_'+(final_val-2)).addClass('board_sct')
+						// $('.weekwarpper_current .board_info_time_'+(final_val+1)).addClass('board_sct')
+						// $('.weekwarpper_current .board_info_time_'+(final_val+2)).addClass('board_sct')
+						// $('.weekwarpper_current .board_info_time_'+Math.floor(current_rot/current_unit)).css({'background-color':'red'})
             	}
 				    // if(Math.floor(($('.fake_scroll_wrapper').scrollTop()/(window.innerHeight/100))/translatey*scrollspeed) !== initoffset){
 				    // 	initoffset = k
@@ -1527,7 +1540,7 @@ function get_data_array() {
 			    			}
 			    			removeItemAll(infopopup_array, infopopup_array[i])
 						})
-                    }
+            }
             $('.spiral_view_button').click(function(){
             	$('body').removeClass('week_view').addClass('spiral_view')
 				window.location.hash = 'spiral';
@@ -1551,7 +1564,36 @@ function get_data_array() {
 				}
 			})
             $(document).mousemove(function(e){
+            	mousepos_x = e.pageX
+            	mousepos_y = e.pageY
             	$('.followcursor').css({'left':e.pageX+'px','top':(e.pageY)+'px'})
+            	if(mousepos_y<4/5*h && mousepos_y>1/5*h&&mousepos_x<4/5*w && mousepos_x>1/5*w){
+            		$('.pre_board_sct').addClass('board_sct')
+            	}else{
+            		$('.weekwarpper_current .board_sct').removeClass('board_sct')
+            	}
+            })
+		    document.addEventListener('touchstart', function(e) {
+            	mousepos_x = e.changedTouches[0].pageX
+            	mousepos_y = e.changedTouches[0].pageY
+		    }, false);
+            $(document).click(function(e){
+            	if(ismobile){
+	            	if(mousepos_y<4/5*h && mousepos_y>1/5*h&&mousepos_x<4/5*w && mousepos_x>1/5*w){
+            			if(!clickblock){
+            				if(link==='image'){}else{window.open(link, '_blank').focus();}
+            			}
+	            	}
+	            }else{
+	            	mousepos_x = e.pageX
+	            	mousepos_y = e.pageY
+	            	if(mousepos_y<4/5*h && mousepos_y>1/5*h&&mousepos_x<4/5*w && mousepos_x>1/5*w){
+						if(!clickblock){
+							if(link==='image'){}else{window.open(link, '_blank').focus();}
+						}
+	            	}
+
+	            }
             })
             function settingup_lastpage(){
             	$('.weekwrapper_'+(week_array.length-1)+' .board_info_time_0').append('\
